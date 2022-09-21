@@ -10,6 +10,11 @@
     width="25px"
   />
 </h1>
+<div>
+ <h3>
+  A Machine learning Enthusiast dabbling with full stack devlopment. Passioate about technology and the business administration of the company
+  </h3>
+  </div>
 <div align="center">
     <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=Adhi1904&show_icons=true&theme=radical&hide_border=true">
     <img width="auto" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi1904&hide_border=true&theme=radical" /><br>
@@ -25,14 +30,6 @@
     <a target="_blank">
         <img
         src="https://cdn.worldvectorlogo.com/logos/c.svg"
-        alt="bash"
-        width="40"
-        height="40"
-        />
-    </a>
-    <a target="_blank">
-        <img
-        src="https://cdn.worldvectorlogo.com/logos/c--4.svg"
         alt="bash"
         width="40"
         height="40"
@@ -62,22 +59,8 @@
         height="40"
         />
     </a>
-    <!-- <br>
-    <a>
-        <h2><b>Public Project Repositorys:</b></h2>
-    </a> -->
 </div>
 
-<!-- ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryludemann&show_icons=true&theme=radical&hide_border=true) -->
 
-
-<!-- ### *Public Project Repositorys:* -->
-<!-- | Repository    | Size  | Commit Activity | Maintained | Last Commit  | Lines of Code |
-| ------------- |:--------:| ----------: | :-------:     | -------------: | :-------------: |  
-| [Ngoto](https://github.com/HarryLudemann/Ngoto) | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Ngoto)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Ngoto) | ![Maintenance](https://img.shields.io/maintenance/yes/2022)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Ngoto)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Ngoto) |
-| [Metlink-Python](https://github.com/HarryLudemann/Metlink-Python) | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Metlink-Python)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Metlink-Python) | ![Maintenance](https://img.shields.io/maintenance/yes/2022)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Metlink-Python)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Metlink-Python) |
-| [Django-Discord](https://github.com/HarryLudemann/Django-Discord)|   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Django-Discord)   | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Django-Discord)| ![Maintenance](https://img.shields.io/maintenance/no/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Django-Discord)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Django-Discord) |
-| [Job-Search](https://github.com/HarryLudemann/Job-Search)    |   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Job-Search)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Job-Search)| ![Maintenance](https://img.shields.io/maintenance/no/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Job-Search)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Job-Search) |
-| [Discord-Chatbot](https://github.com/HarryLudemann/Job-Search) |    ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Discord-Chatbot)   | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Discord-Chatbot)| ![Maintenance](https://img.shields.io/maintenance/no/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Discord-Chatbot)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Discord-Chatbot) | -->
 
 <img src="/bottom.svg"/>
