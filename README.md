@@ -12,7 +12,7 @@
 </h1>
 <div>
  <h3>
-  A Machine learning Enthusiast dabbling with full stack devlopment. Passioate about technology and the business administration of the company
+  A Machine learning enthusiast dabbling with full stack devlopment. Passioate about technology and the business administration of the company
   </h3>
   </div>
 <div align="center">
