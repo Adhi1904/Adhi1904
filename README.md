@@ -53,23 +53,7 @@
         width="40"
         height="40"
         />
-    </a>
-    <a target="_blank">
-        <img
-        src="https://cdn.worldvectorlogo.com/logos/django.svg"
-        alt="bash"
-        width="40"
-        height="40"
-        />
-    </a>
-    <a target="_blank">
-        <img
-        src="https://cdn.worldvectorlogo.com/logos/flutter.svg"
-        alt="bash"
-        width="40"
-        height="40"
-        />
-    </a>
+    </a>   
     <a target="_blank">
         <img
         src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
